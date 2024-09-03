@@ -1,5 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
 import JavaDoWhileLoop from './components/java/DoWhileLoop';
 import JavaIntroduction from './components/java/Introduction';
@@ -66,7 +65,6 @@ import JavaWhileLoop from './components/java/WhileLoop';
 function App() {
   return (
     <>
-      <Router basename="/codelite-react-app">
       <Routes>
         <Route path='/' element={<JavaIntroduction />} />
         <Route path='/java/abstract-class-interface' element={<JavaAbstractClassInterface />} />
@@ -130,7 +128,6 @@ function App() {
         <Route path='/java/while-loop' element={<JavaWhileLoop />} />
         <Route path='/java/wrapper-class' element={<JavaWrapperClass />} />
       </Routes>
-      </Router>
     </>
   );
 }
