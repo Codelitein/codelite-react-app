@@ -1,39 +1,20 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/static/css/main.d8298b2d.css",
-    "main.js": "/static/js/main.0c7cea94.js",
-    "static/js/453.58d12096.chunk.js": "/static/js/453.58d12096.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/index.html",
-    "main.d8298b2d.css.map": "/static/css/main.d8298b2d.css.map",
-    "main.0c7cea94.js.map": "/static/js/main.0c7cea94.js.map",
-    "453.58d12096.chunk.js.map": "/static/js/453.58d12096.chunk.js.map"
+    "main.css": "/Codelitein/codelite-react-app/static/css/main.77bcba69.css",
+    "main.js": "/Codelitein/codelite-react-app/static/js/main.c92944b6.js",
+    "static/js/453.58d12096.chunk.js": "/Codelitein/codelite-react-app/static/js/453.58d12096.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Codelitein/codelite-react-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Codelitein/codelite-react-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Codelitein/codelite-react-app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Codelitein/codelite-react-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Codelitein/codelite-react-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Codelitein/codelite-react-app/index.html",
+    "main.77bcba69.css.map": "/Codelitein/codelite-react-app/static/css/main.77bcba69.css.map",
+    "main.c92944b6.js.map": "/Codelitein/codelite-react-app/static/js/main.c92944b6.js.map",
+    "453.58d12096.chunk.js.map": "/Codelitein/codelite-react-app/static/js/453.58d12096.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8298b2d.css",
-    "static/js/main.0c7cea94.js"
-=======
-    "main.css": "./static/css/main.d8298b2d.css",
-    "main.js": "./static/js/main.fa37fddd.js",
-    "static/js/453.58d12096.chunk.js": "./static/js/453.58d12096.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "./static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "./static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "./static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "./static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "./index.html",
-    "main.d8298b2d.css.map": "./static/css/main.d8298b2d.css.map",
-    "main.fa37fddd.js.map": "./static/js/main.fa37fddd.js.map",
-    "453.58d12096.chunk.js.map": "./static/js/453.58d12096.chunk.js.map"
-  },
-  "entrypoints": [
-    "./static/css/main.d8298b2d.css",
-    "./static/js/main.fa37fddd.js"
->>>>>>> 27f5633efc68094e4e5956f96c1ccec2cbe3d30e
+    "static/css/main.77bcba69.css",
+    "static/js/main.c92944b6.js"
   ]
 }
